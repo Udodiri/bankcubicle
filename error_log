@@ -1,0 +1,34 @@
+[12-Jul-2017 11:34:32 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 45
+[12-Jul-2017 11:39:18 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 45
+[12-Jul-2017 11:39:22 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 45
+[12-Jul-2017 11:39:24 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 45
+[12-Jul-2017 11:45:05 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:08 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:12 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:25 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:30 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:34 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:36 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:45:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:47:12 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:47:27 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:47:52 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:48:01 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:49:07 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 70
+[12-Jul-2017 11:50:52 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 74
+[12-Jul-2017 11:57:06 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 74
+[12-Jul-2017 11:57:14 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 74
+[12-Jul-2017 11:57:14 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 74
+[12-Jul-2017 11:59:23 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 75
+[14-Jul-2017 15:32:47 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/bankcubi/public_html/sendContactUsMessage.php on line 74
+[21-Jul-2017 12:35:14 Africa/Lagos] PHP Strict Standards:  Non-static method Mail::factory() should not be called statically in /home/bankcubi/public_html/mail-index.php on line 26
+[21-Jul-2017 12:35:14 Africa/Lagos] PHP Deprecated:  Non-static method Mail_RFC822::parseAddressList() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail.php on line 253
+[21-Jul-2017 12:38:12 Africa/Lagos] PHP Notice:  Undefined index: name in /home/bankcubi/public_html/qservers_mail.php on line 7
+[21-Jul-2017 12:38:12 Africa/Lagos] PHP Notice:  Undefined index: email in /home/bankcubi/public_html/qservers_mail.php on line 8
+[21-Jul-2017 12:38:12 Africa/Lagos] PHP Notice:  Undefined index: message in /home/bankcubi/public_html/qservers_mail.php on line 9
+[21-Jul-2017 12:38:12 Africa/Lagos] PHP Notice:  Undefined index: submit in /home/bankcubi/public_html/qservers_mail.php on line 11
+[21-Jul-2017 12:38:38 Africa/Lagos] PHP Notice:  Undefined variable: mime in /home/bankcubi/public_html/qservers_mail.php on line 29
+[21-Jul-2017 12:38:38 Africa/Lagos] PHP Fatal error:  Call to a member function get() on null in /home/bankcubi/public_html/qservers_mail.php on line 29
+[21-Jul-2017 12:52:17 Africa/Lagos] PHP Strict Standards:  Non-static method Mail::factory() should not be called statically in /home/bankcubi/public_html/mail-index.php on line 26
+[21-Jul-2017 12:52:17 Africa/Lagos] PHP Deprecated:  Non-static method Mail_RFC822::parseAddressList() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail.php on line 253

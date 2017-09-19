@@ -1,0 +1,24 @@
+[21-Jul-2017 11:38:02 Africa/Lagos] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 11:38:02 Africa/Lagos] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 11:38:02 Africa/Lagos] PHP Fatal error:  Class 'Net_SMTP' not found in /home/bankcubi/public_html/m/Mail/smtp.php on line 366
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::encodeHeader() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mime.php on line 1322
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::encodeHeader() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mime.php on line 1322
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::encodeHeader() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mime.php on line 1322
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::_explodeQuotedString() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mimePart.php on line 803
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::encodeHeader() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mime.php on line 1322
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::_explodeQuotedString() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mimePart.php on line 803
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Deprecated:  Non-static method Mail_mimePart::encodeHeader() should not be called statically, assuming $this from incompatible context in /opt/cpanel/ea-php56/root/usr/share/pear/Mail/mime.php on line 1322
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 11:39:20 Africa/Lagos] PHP Fatal error:  Class 'Net_SMTP' not found in /home/bankcubi/public_html/m/Mail/smtp.php on line 366
+[21-Jul-2017 12:16:14 Africa/Lagos] PHP Notice:  Undefined index: name in /home/bankcubi/public_html/m/qservers_mail.php on line 7
+[21-Jul-2017 12:16:14 Africa/Lagos] PHP Notice:  Undefined index: email in /home/bankcubi/public_html/m/qservers_mail.php on line 8
+[21-Jul-2017 12:16:14 Africa/Lagos] PHP Notice:  Undefined index: message in /home/bankcubi/public_html/m/qservers_mail.php on line 9
+[21-Jul-2017 12:16:14 Africa/Lagos] PHP Notice:  Undefined index: submit in /home/bankcubi/public_html/m/qservers_mail.php on line 11
+[21-Jul-2017 12:16:32 Africa/Lagos] PHP Fatal error:  Class 'Mail_mime' not found in /home/bankcubi/public_html/m/qservers_mail.php on line 24
+[21-Jul-2017 12:26:59 Africa/Lagos] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 12:26:59 Africa/Lagos] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 12:26:59 Africa/Lagos] PHP Fatal error:  Class 'Net_SMTP' not found in /home/bankcubi/public_html/m/Mail/smtp.php on line 366
+[21-Jul-2017 12:28:30 Africa/Lagos] PHP Warning:  include_once(Net/SMTP.php): failed to open stream: No such file or directory in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 12:28:30 Africa/Lagos] PHP Warning:  include_once(): Failed opening 'Net/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/bankcubi/public_html/m/Mail/smtp.php on line 365
+[21-Jul-2017 12:28:30 Africa/Lagos] PHP Fatal error:  Class 'Net_SMTP' not found in /home/bankcubi/public_html/m/Mail/smtp.php on line 366
